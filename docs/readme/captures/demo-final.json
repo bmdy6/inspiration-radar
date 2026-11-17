@@ -1,0 +1,23 @@
+{
+  "id": "demo-final",
+  "kind": "command-run",
+  "role": "core",
+  "command": "python3 -m inspiration_radar --state .radar/preview demo",
+  "stdout": "Offline demo · synthetic fixtures · no model call\nSketch Garden → 把拖动轨迹直接变成动画时间线。\n启发：尝试用直接操作替代复杂的参数表单。\nLearning with tiny experiments → 每次只改变一个交互并记录观察。\n启发：为一个想法先设计十分钟的验证。\nSaved 2 items · complete\nMarkdown + JSON: .radar/preview/daily/2026-11-17.md\n",
+  "stderr": "",
+  "exitCode": 0,
+  "signal": null,
+  "durationMs": 85,
+  "timeoutMs": 60000,
+  "timedOut": false,
+  "requiresTTY": false,
+  "environment": {
+    "node": "v20.19.2",
+    "platform": "darwin",
+    "arch": "arm64",
+    "ci": true,
+    "sharedGitHubAuth": false,
+    "stdin": "closed",
+    "isolation": "disposable copy; not an OS sandbox"
+  }
+}

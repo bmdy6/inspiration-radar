@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "inspiration-radar"
+version = "0.1.0"
+description = "Evidence-based GitHub and article digests, with local output and permanent deduplication"
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = []
+
+[project.scripts]
+inspiration-radar = "inspiration_radar.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["inspiration_radar*"]
+
+[tool.setuptools.package-data]
+inspiration_radar = ["demo.json"]

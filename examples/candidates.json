@@ -1,0 +1,18 @@
+{
+  "candidates": [
+    {
+      "kind": "github",
+      "title": "Sketch Garden",
+      "url": "https://github.com/example/sketch-garden",
+      "published_at": "2026-11-16T00:00:00Z",
+      "verified": false
+    },
+    {
+      "kind": "article",
+      "title": "Learning with tiny experiments",
+      "url": "https://example.org/tiny-experiments",
+      "published_at": "2026-11-16T00:00:00Z",
+      "verified": false
+    }
+  ]
+}

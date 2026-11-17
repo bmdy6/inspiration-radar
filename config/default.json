@@ -1,0 +1,33 @@
+{
+  "name": "Inspiration Radar",
+  "max_age_days": 90,
+  "max_items": 5,
+  "source_limit": 10,
+  "github_query": "creative tools",
+  "hn_query": "creative tools",
+  "topics": "Creative products, interaction design, learning and practical experiments",
+  "exclude_terms": [],
+  "github": {
+    "min_total": 6.0,
+    "min_relevance": 6.0,
+    "weights": {
+      "relevance": 0.35,
+      "heat": 0.15,
+      "maturity": 0.15,
+      "utility": 0.25,
+      "novelty": 0.1
+    }
+  },
+  "article": {
+    "min_total": 6.5,
+    "min_relevance": 6.0,
+    "min_depth": 6.0,
+    "weights": {
+      "relevance": 0.3,
+      "depth": 0.25,
+      "hn_heat": 0.15,
+      "timeliness": 0.1,
+      "actionability": 0.2
+    }
+  }
+}

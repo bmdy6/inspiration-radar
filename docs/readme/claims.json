@@ -1,0 +1,20 @@
+[
+  {
+    "claim": "只有标记已核验、五维评分与证据齐全的条目才进入日报。",
+    "factIds": [
+      "verified"
+    ]
+  },
+  {
+    "claim": "同日重跑复用首批结果，跨日按规范化链接永久去重。",
+    "factIds": [
+      "fixed-batch"
+    ]
+  },
+  {
+    "claim": "输出 Markdown 和 JSON，默认不调用模型、不安装定时任务。",
+    "factIds": [
+      "local-output"
+    ]
+  }
+]

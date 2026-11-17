@@ -1,0 +1,20 @@
+{
+  "accent": "#2f6f4e",
+  "images": [
+    {
+      "id": "hero",
+      "template": "hero-terminal",
+      "compact": true,
+      "fixture": true,
+      "title": {
+        "en": "Turn projects and articles into your next experiment",
+        "zh-CN": "从项目与文章中筛选灵感，保存在自己的目录"
+      },
+      "subtitle": {
+        "en": "Actual CLI output from synthetic fixtures; Markdown and JSON stay in your directory.",
+        "zh-CN": "合成素材经过实际 CLI 筛选，生成两条灵感及 Markdown、JSON 日报，保存在本地目录。"
+      },
+      "captureId": "demo-final"
+    }
+  ]
+}

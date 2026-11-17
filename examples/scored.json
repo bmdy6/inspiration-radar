@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "kind": "github",
+      "title": "Sketch Garden",
+      "url": "https://github.com/example/sketch-garden",
+      "published_at": "2026-11-16T00:00:00Z",
+      "verified": true,
+      "what": "把手绘草图组合成互动场景的合成示例。",
+      "highlight": "把拖动轨迹直接变成动画时间线。",
+      "inspire": "尝试用直接操作替代复杂的参数表单。",
+      "scores": {
+        "relevance": {
+          "score": 8,
+          "reason": "合成示例的预置评分。",
+          "evidence": "https://github.com/example/sketch-garden — fictional fixture; not a verified real project."
+        },
+        "heat": {
+          "score": 8,
+          "reason": "合成示例的预置评分。",
+          "evidence": "https://github.com/example/sketch-garden — fictional fixture; not a verified real project."
+        },
+        "maturity": {
+          "score": 8,
+          "reason": "合成示例的预置评分。",
+          "evidence": "https://github.com/example/sketch-garden — fictional fixture; not a verified real project."
+        },
+        "utility": {
+          "score": 8,
+          "reason": "合成示例的预置评分。",
+          "evidence": "https://github.com/example/sketch-garden — fictional fixture; not a verified real project."
+        },
+        "novelty": {
+          "score": 8,
+          "reason": "合成示例的预置评分。",
+          "evidence": "https://github.com/example/sketch-garden — fictional fixture; not a verified real project."
+        }
+      }
+    },
+    {
+      "kind": "article",
+      "title": "Learning with tiny experiments",
+      "url": "https://example.org/tiny-experiments",
+      "published_at": "2026-11-16T00:00:00Z",
+      "verified": true,
+      "what": "讨论用小实验学习交互设计的合成文章。",
+      "highlight": "每次只改变一个交互并记录观察。",
+      "inspire": "为一个想法先设计十分钟的验证。",
+      "scores": {
+        "relevance": {
+          "score": 8,
+          "reason": "合成示例的预置评分。",
+          "evidence": "https://example.org/tiny-experiments — fictional fixture; not a verified real project."
+        },
+        "depth": {
+          "score": 8,
+          "reason": "合成示例的预置评分。",
+          "evidence": "https://example.org/tiny-experiments — fictional fixture; not a verified real project."
+        },
+        "hn_heat": {
+          "score": 8,
+          "reason": "合成示例的预置评分。",
+          "evidence": "https://example.org/tiny-experiments — fictional fixture; not a verified real project."
+        },
+        "timeliness": {
+          "score": 8,
+          "reason": "合成示例的预置评分。",
+          "evidence": "https://example.org/tiny-experiments — fictional fixture; not a verified real project."
+        },
+        "actionability": {
+          "score": 8,
+          "reason": "合成示例的预置评分。",
+          "evidence": "https://example.org/tiny-experiments — fictional fixture; not a verified real project."
+        }
+      }
+    }
+  ]
+}
