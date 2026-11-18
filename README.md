@@ -18,7 +18,7 @@ python3 -m venv .venv && .venv/bin/python -m pip install .
 .venv/bin/inspiration-radar --state .radar/demo demo
 ```
 
-需要 Python 3.10+；当前仓库为私有，克隆需要访问权限。安装后运行零第三方依赖；demo 离线生成 `.radar/demo/daily/2026-11-17.md` 和同名 JSON。示例链接是虚构占位。
+需要 Python 3.10+。安装后运行零第三方依赖；demo 离线生成 `.radar/demo/daily/2026-11-17.md` 和同名 JSON。示例链接是虚构占位。
 
 ## 得到什么
 
